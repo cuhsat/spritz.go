@@ -1,5 +1,5 @@
-# Spritz.go
-A Spritz cipher implementation in Go.
+# spritz.go
+A Spritz cipher implementation in pure Go.
 
 Spritz is a RC4 redesign by *Ron Rivest* and *Jacob Schuldt*
 [(PDF)](doc/RS14.pdf).
